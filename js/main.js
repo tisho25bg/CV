@@ -6,29 +6,29 @@ function myFunction(id) {
 	var server = "https://github.com/tisho25bg/CV/blob/master/"
 	switch (id) {
 		case 1:
-			alert(host);
+
 			window.location.replace(host+server+"home.html");
-			document.write(host);
+
 			break;
 		case 2:
 
-			window.location.replace("http://htmlpreview.github.io/?https://github.com/tisho25bg/CV/blob/master/my-resume.html");
+			window.location.replace(host+server+"my-resume.html");
 			break;
 		case 3:
 
-			window.location.replace("http://htmlpreview.github.io/?https://github.com/tisho25bg/CV/blob/master/my-skills.html");
+			window.location.replace(host+server+"my-skills.html");
 			break;
 		case 4:
 
-			window.location.replace("http://htmlpreview.github.io/?https://github.com/tisho25bg/CV/blob/master/my-job.html");
+			window.location.replace(host+server+"my-job.html");
 			break;
 		case 5:
 			// document.write("5");
-			window.location.replace("http://htmlpreview.github.io/?https://github.com/tisho25bg/CV/blob/master/home.html");
+			window.location.replace(host+server+"home.html");
 			break;
 		case 6:
 			// document.write("6");
-			window.location.replace("http://htmlpreview.github.io/?https://github.com/tisho25bg/CV/blob/master/my-resume.html");
+			window.location.replace(host+server+"my-resume.html");
 			break;
 	}
 }
