@@ -184,7 +184,6 @@ nav ul a{
 }
 .wrap:hover .front {
 	transform: translateZ(200px);
-	background-image: url("http://prntscr.com/mj65os");
 }
 
 .wrap:hover .back {
