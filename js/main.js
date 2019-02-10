@@ -6,7 +6,8 @@ function myFunction(id) {
 	switch (id) {
 		case 1:
 			alert(host);
-			window.location.replace("http://htmlpreview.github.io/?https://github.com/tisho25bg/CV/blob/master/home.html");
+			window.location.replace(host+"https://github.com/tisho25bg/CV/blob/master/home.html");
+			document.write(host);
 			break;
 		case 2:
 
