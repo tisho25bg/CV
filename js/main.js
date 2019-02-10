@@ -1,7 +1,7 @@
 function myFunction(id) {
 
 	var protocol = location.protocol;
-	var slashes = protocol.concat("//");
+	var slashes = protocol.concat("?https://");
 	var host = slashes.concat(window.location.hostname);
 	var server = "https://github.com/tisho25bg/CV/blob/master/"
 	switch (id) {
