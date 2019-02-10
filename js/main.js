@@ -2,11 +2,11 @@ function myFunction(id) {
 
 	switch (id) {
 		case 1:
-			window.location.href = "home.html";
+			window.location.replace("home.html");
 			break;
 		case 2:
 
-			window.location.href = "my-resume.html";
+			window.location.replace("my-resume.html");
 			break;
 		case 3:
 
