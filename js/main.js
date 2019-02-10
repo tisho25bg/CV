@@ -5,7 +5,7 @@ function myFunction(id) {
 	var host = slashes.concat(window.location.hostname);
 	switch (id) {
 		case 1:
-			window.location.replace("http://htmlpreview.github.io/?"+"/home.html");
+			window.location.replace("http://htmlpreview.github.io/?"+"https://github.com/tisho25bg/CV/blob/master//home.html");
 			break;
 		case 2:
 
