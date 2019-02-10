@@ -1,8 +1,11 @@
 function myFunction(id) {
 
+	var protocol = location.protocol;
+	var slashes = protocol.concat("//");
+	var host = slashes.concat(window.location.hostname);
 	switch (id) {
 		case 1:
-			window.location.replace("home.html");
+			window.location.replace(host+"home.html");
 			break;
 		case 2:
 
