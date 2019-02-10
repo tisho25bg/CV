@@ -3,10 +3,11 @@ function myFunction(id) {
 	var protocol = location.protocol;
 	var slashes = protocol.concat("//");
 	var host = slashes.concat(window.location.hostname);
+	var server = "https://github.com/tisho25bg/CV/blob/master/"
 	switch (id) {
 		case 1:
 			alert(host);
-			window.location.replace(host+"https://github.com/tisho25bg/CV/blob/master/home.html");
+			window.location.replace(host+server+"home.html");
 			document.write(host);
 			break;
 		case 2:
