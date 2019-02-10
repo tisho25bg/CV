@@ -5,7 +5,7 @@ function myFunction(id) {
 	var host = slashes.concat(window.location.hostname);
 	switch (id) {
 		case 1:
-			window.location.replace(host+"home.html");
+			window.location.replace(host+"/home.html");
 			break;
 		case 2:
 
