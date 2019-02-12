@@ -49,16 +49,15 @@ a {
  ul  {
 	 list-style-type: none;
 
-	 overflow: hidden;
 }
 
- /*li {*/
-	 /*float: left;*/
-/*}*/
+ li {
+	 float: right;
+}
  li a {
+	 color: #DCF9C2;
+	 padding: 12px;
 	 display: block;
-
-	 background-color: #dddddd;
  }
 li a:hover {
 	color: #56E5FC;
