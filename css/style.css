@@ -155,12 +155,12 @@ a:hover {
 
 .cube div {
 	position: absolute;
-	padding: 5px;
+	padding: 2px;
 	box-sizing: border-box;
 	height: 100%;
 	width: 100%;
 	opacity: 0.9;
-	background-color: #4F7976;
+	background-color: #07366F;
 	border: solid 1px #eee;
 	color: #fff;
 	font: 10px arial;
