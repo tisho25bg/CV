@@ -49,6 +49,7 @@ header a {
 header ul li {
 	text-align: center;
 	list-style: none;
+	display: inline;
 }
 
 /*aside,*/
