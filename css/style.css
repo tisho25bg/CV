@@ -46,14 +46,15 @@ a {
 	text-decoration: none;
 	display: block;
 }
- ul  {
+ ul li  {
 	 list-style-type: none;
+	 display: inline;
 
 }
 
- li {
-	 float: right;
-}
+ /*li {*/
+	 /*float: right;*/
+/*}*/
  li a {
 	 color: #DCF9C2;
 	 padding: 12px;
