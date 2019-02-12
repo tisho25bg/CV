@@ -55,52 +55,52 @@ header ul  {
 header li {
 	display: inline;
 }
-/*aside,*/
-/*nav{*/
-	/*display: inline-block;*/
-	/*width: 100%;*/
-	/*max-width: 50%;*/
-	/*vertical-align: top;*/
-	/*padding: 15px;*/
+aside,
+nav{
+	display: inline-block;
+	width: 100%;
+	max-width: 50%;
+	vertical-align: top;
+	padding: 15px;
 
-/*}*/
+}
 
-/*aside ul,*/
-/*nav ul{*/
+aside ul,
+nav ul{
 
-	/*margin: 10px;*/
-/*}*/
+	margin: 10px;
+}
 
-/*aside ul li,*/
-/*nav ul li{*/
-	/*text-align: right;*/
-	/*list-style: none;*/
-	/*!*font-size: 14px;*!*/
-	/*!*color: #54081E;*!*/
-	/*font-family: "Palatino Linotype", bold sans-serif;*/
-/*}*/
-
-
-/*aside ul li:hover,*/
-/*nav ul li:hover{*/
-	/*background-color: #F6E5DD;*/
-/*}*/
-
-/*aside a,*/
-/*nav a{*/
-	/*text-decoration: none;*/
-	/*display: block;*/
-	/*!*padding: 10px 20px 10px 20px;*!*/
-/*}*/
-
-/*nav, aside h1 {*/
-	/*font-size: 1em;*/
+aside ul li,
+nav ul li{
+	text-align: right;
+	list-style: none;
+	/*font-size: 14px;*/
 	/*color: #54081E;*/
-	/*font-family: "Palatino Linotype", bold sans-serif;*/
-/*}*/
-/*aside{*/
-	/*float: right;*/
-/*}*/
+	font-family: "Palatino Linotype", bold sans-serif;
+}
+
+
+aside ul li:hover,
+nav ul li:hover{
+	background-color: #F6E5DD;
+}
+
+aside a,
+nav a{
+	text-decoration: none;
+	display: block;
+	/*padding: 10px 20px 10px 20px;*/
+}
+
+nav, aside h1 {
+	font-size: 1em;
+	color: #54081E;
+	font-family: "Palatino Linotype", bold sans-serif;
+}
+aside{
+	float: right;
+}
 
 /*.info{*/
 	/*padding: 15px;*/
