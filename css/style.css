@@ -42,17 +42,17 @@ header {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4c68a1', endColorstr='#3b5998', GradientType=0); /* IE6-9 */
 }
 
-header a {
+a {
 	text-decoration: none;
 	display: block;
 }
-header ul  {
+ ul  {
 	text-align: center;
 	list-style: none;
 
 }
 
-header li {
+ li {
 	display: inline;
 }
 aside,
