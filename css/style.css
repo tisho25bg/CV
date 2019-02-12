@@ -46,7 +46,7 @@ a {
 	text-decoration: none;
 	display: block;
 }
- ul#menu li  {
+ ul li  {
 	 list-style-type: none;
 	 display: inline;
 	 text-align: center;
