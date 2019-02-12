@@ -42,8 +42,12 @@ header {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4c68a1', endColorstr='#3b5998', GradientType=0); /* IE6-9 */
 }
 
+header a {
+	text-decoration: none;
+	display: block;
+}
 header ul li {
-	text-align: right;
+	text-align: center;
 	list-style: none;
 }
 
@@ -94,11 +98,11 @@ aside{
 	float: right;
 }
 
-.info{
-	padding: 15px;
-	width: 100%;
-	float: right;
-}
+/*.info{*/
+	/*padding: 15px;*/
+	/*width: 100%;*/
+	/*float: right;*/
+/*}*/
 
 a:hover {
 	color: #56E5FC;
