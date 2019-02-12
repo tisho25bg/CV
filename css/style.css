@@ -114,20 +114,20 @@ a:hover {
 }
 
 .content,  h1 {
-	font-size: 2em;
+	font-size: 1.4em;
 	color: #011012;
 	font-family: "Palatino Linotype", bold sans-serif;
 }
 
 .content h2 {
-	font-size: 1em;
+	font-size: 0.8em;
 	color: #011012;
 	font-family: "Palatino Linotype", bold sans-serif;
 }
 
 .content ul {
 	float: left;
-	font-size: 2em;
+	font-size: 1.5em;
 	color: #011012;
 	font-family: "Palatino Linotype", bold sans-serif;
 }
