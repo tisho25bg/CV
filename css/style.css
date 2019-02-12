@@ -54,7 +54,8 @@ a {
 }
 
  li {
-	 margin-left: 45px;
+
+	 margin: 0 auto;
 	 float: left;
 }
  li a {
