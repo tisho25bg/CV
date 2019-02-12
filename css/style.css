@@ -46,12 +46,15 @@ header a {
 	text-decoration: none;
 	display: block;
 }
-header ul li {
+header ul  {
 	text-align: center;
 	list-style: none;
-	display: inline;
+
 }
 
+header li {
+	display: inline;
+}
 /*aside,*/
 /*nav{*/
 	/*display: inline-block;*/
