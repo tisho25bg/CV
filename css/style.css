@@ -50,6 +50,7 @@ a {
 	 list-style-type: none;
 	 display: inline;
 	 text-align: center;
+	 float: right;
 
 }
 
@@ -59,8 +60,8 @@ a {
  li a {
 
 	 color: #DCF9C2;
-	 font-size:1.7em;
-	 padding: 12px;
+	 font-size:1.2em;
+	 padding: 2px;
 	 display: block;
 	 text-align: center;
  }
